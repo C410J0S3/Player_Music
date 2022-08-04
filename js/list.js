@@ -40,7 +40,31 @@ let allMusic = [
     src: "img/slip.jpg",
     song: "music/Slipknot - Snuff Legendado.mp3",
     time: "04:22"
+},
+{
+    nome: "Victory",
+    artista: "Fire from the gods",
+    src: "img/fire.webp",
+    song: "music/fire.mp3",
+    time: "04:22"
+},
+{
+    nome: "Wolf Totten",
+    artista: "The Hu",
+    src: "img/hu.jpg",
+    song: "music/hu.mp3",
+    time: "04:22"
+},
+{
+    nome: "Remember When",
+    artista: "Bad Wolfs",
+    src: "img/bad.webp",
+    song: "music/bad.mp3",
+    time: "04:22"
 }
+
+
+
 
 //adicionar musica
 //
